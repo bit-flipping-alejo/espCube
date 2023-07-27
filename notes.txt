@@ -1,0 +1,6 @@
+notes:
+	going to 595 you need
+		> Clock pin
+		> data pin
+		> output enable pin
+		
