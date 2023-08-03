@@ -3,4 +3,17 @@ notes:
 		> Clock pin
 		> data pin
 		> output enable pin
-		
+
+To ask, are we shifting out MSB or LSB first
+
+Pin	BIT
+0   MSB
+1	6
+2	5
+3	4
+4	3
+5	2
+6	1
+7	LSB
+
+Means: electricity moves from little U towards O
